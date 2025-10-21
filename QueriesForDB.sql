@@ -231,7 +231,7 @@ ORDER BY a.Balance DESC
 LIMIT 5;
 
 
-select * from customer;
+
 -- -------------------Recent Transactions
 CREATE OR REPLACE VIEW RecentTransactions AS
 SELECT 
