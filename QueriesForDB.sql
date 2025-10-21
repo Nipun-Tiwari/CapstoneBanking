@@ -63,7 +63,7 @@ BEGIN
 END //
 
 -- ----------------Create Customer
-delimiter //
+DELIMITER //
 CREATE PROCEDURE CreateCustomer(
     IN name_in VARCHAR(100),
     IN email_in VARCHAR(100),
@@ -73,7 +73,14 @@ CREATE PROCEDURE CreateCustomer(
 BEGIN
     INSERT INTO Customer (Name, Email, Phone, City)
     VALUES (name_in, email_in, phone_in, city_in);
+
+    -- Return the auto-generated CustomerID
+    SELECT LAST_INSERT_ID() AS CustomerID;
 END //
+DELIMITER //
+
+
+
 
 -- -----------------Create Account
 delimiter //
@@ -224,6 +231,7 @@ ORDER BY a.Balance DESC
 LIMIT 5;
 
 
+select * from customer;
 -- -------------------Recent Transactions
 CREATE OR REPLACE VIEW RecentTransactions AS
 SELECT 
