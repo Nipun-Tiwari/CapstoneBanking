@@ -1,0 +1,26 @@
+CustomerID,Name,Email,Phone,City,AccountID,AccountType,Balance
+1,Arjun Mehta,arjun.mehta@bankmail.com,9800000000,Delhi,101,Savings,10000.00
+2,Priya Sharma,priya.sharma@bankmail.com,9800000001,Mumbai,102,Current,12500.75
+3,Ravi Kumar,ravi.kumar@bankmail.com,9800000002,Bangalore,103,Savings,15001.50
+4,Ananya Iyer,ananya.iyer@bankmail.com,9800000003,Chennai,104,Current,17502.25
+5,Sandeep Reddy,sandeep.reddy@bankmail.com,9800000004,Pune,105,Savings,20003.00
+6,Neha Kapoor,neha.kapoor@bankmail.com,9800000005,Delhi,106,Current,22503.75
+7,Manoj Desai,manoj.desai@bankmail.com,9800000006,Mumbai,107,Savings,25004.50
+8,Kavya Rao,kavya.rao@bankmail.com,9800000007,Bangalore,108,Current,27505.25
+9,Aditya Nair,aditya.nair@bankmail.com,9800000008,Chennai,109,Savings,30006.00
+10,Ritika Patil,ritika.patil@bankmail.com,9800000009,Pune,110,Current,32506.75
+11,Varun Bhatia,varun.bhatia@bankmail.com,9800000010,Delhi,111,Savings,35007.50
+12,Tanya Joshi,tanya.joshi@bankmail.com,9800000011,Mumbai,112,Current,37508.25
+13,Nikhil Menon,nikhil.menon@bankmail.com,9800000012,Bangalore,113,Savings,40009.00
+14,Shruti Pillai,shruti.pillai@bankmail.com,9800000013,Chennai,114,Current,42509.75
+15,Karan Patil,karan.patil@bankmail.com,9800000014,Pune,115,Savings,45010.50
+16,Divya Singh,divya.singh@bankmail.com,9800000015,Delhi,116,Current,47511.25
+17,Akash Verma,akash.verma@bankmail.com,9800000016,Mumbai,117,Savings,50012.00
+18,Meera Das,meera.das@bankmail.com,9800000017,Bangalore,118,Current,52512.75
+19,Rohit Iyer,rohit.iyer@bankmail.com,9800000018,Chennai,119,Savings,55013.50
+20,Pooja Kulkarni,pooja.kulkarni@bankmail.com,9800000019,Pune,120,Current,57514.25
+21,Arvind Gupta,arvind.gupta@bankmail.com,9800000020,Delhi,121,Savings,60015.00
+22,Nisha Nair,nisha.nair@bankmail.com,9800000021,Mumbai,122,Current,62515.75
+23,Rajesh Gowda,rajesh.gowda@bankmail.com,9800000022,Bangalore,123,Savings,65016.50
+24,Deepika Krishnan,deepika.krishnan@bankmail.com,9800000023,Chennai,124,Current,67517.25
+25,Suresh Chavan,suresh.chavan@bankmail.com,9800000024,Pune,125,Savings,70018.00
